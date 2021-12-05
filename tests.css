@@ -1,0 +1,52 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+a{
+    color: black;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    :hover
+}
+ul li {
+     display: inline;
+     padding: 10px;
+   }
+.liste{
+    margin-left: 100px;
+    margin-top: -70px;
+    
+    
+}   
+.list{
+    margin-top: 50px;
+    margin-left: -50px;
+    display: flex;
+}
+ol li{
+    display:inline;
+    padding: 10px;
+}
+article{
+    margin-left: 50px;
+    
+}
+.photoA{
+     padding:5px;
+}
+.RPPA{
+    color: rgb(167, 161, 161);
+}
+.productA{
+    margin-left: 30px;
+}
+.Price{
+    color:black ;
+}
+.saving{
+      color: rgb(27, 202, 79);
+}
+a:hover{
+    text-decoration: underline;
+    color: rgb(116, 99, 99);
+}
